@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ![t1](https://github.com/zeeshan2233/Travel-App-UI/assets/136428209/939a1271-681f-4ebc-9508-95aaca187b37,)
 
-![t2](https://github.com/zeeshan2233/Travel-App-UI/assets/136428209/c7686310-1258-424f-a4c2-c279a53ddd4c)
+![t2](https://github.com/zeeshan2233/Travel-App-UI/assets/136428209/c7686310-1258-424f-a4c2-c279a53ddd4c,)
